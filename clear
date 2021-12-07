@@ -1,0 +1,17 @@
+[33mcommit 494ad4d4ae41c148771d4d7e2307f0fefea2f310[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: 202043246 Jose Miguel Becerra Casierra <jose.becerra@correounivalle.edu.co>
+Date:   Mon Dec 6 14:57:25 2021 -0500
+
+    added ModelCraps class
+
+[33mcommit 6df0a1c377cb5b20256b27abf82fdcc78bf4a7d7[m
+Author: 202043246 Jose Miguel Becerra Casierra <jose.becerra@correounivalle.edu.co>
+Date:   Mon Dec 6 10:33:33 2021 -0500
+
+    added class Dado
+
+[33mcommit 0cb64f8d52b0b63987b9e0f984c6b6c9e6422887[m
+Author: 202043246 Jose Miguel Becerra Casierra <jose.becerra@correounivalle.edu.co>
+Date:   Mon Dec 6 10:31:45 2021 -0500
+
+    added class Dado
